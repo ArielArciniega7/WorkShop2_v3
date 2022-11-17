@@ -28,6 +28,7 @@
 #include<stdint.h>
 #include "msp.h"
 #include "DRIVERS\BSP.h"
+#define GITPRUEBA 4
 
 void main(void)
 {
